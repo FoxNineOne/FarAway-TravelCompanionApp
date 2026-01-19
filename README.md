@@ -1,31 +1,33 @@
-# Far Away - A Travel Companion App
+# FarAway – Travel Companion App 
 
-## Overview
-Far Away is travel companion app that allows you to list all items you need to pack for a trip.
-Once packed, you can tick them off, and see a report in the footer of how many items packed, and how much in % is complete.
-You can also remove items, and sort them.
+## Overview FarAway is a React-based travel companion application built as part of a structured React learning project. 
+The app allows users to create, sort, and manage a packing list for trips, demonstrating core React concepts and component-driven UI design. 
 
-This is my first React project, showcasing what I've learnt so far.
+## Tech Stack 
+- React 
+- JavaScript 
+- HTML 
+- CSS 
 
-## Tech Stack
-- React
-- JavaScript
-- HTML
-- CSS
+## Features 
+- Add and remove items from a packing list 
+- Mark items as packed 
+- Sort items by input order, description, or packed status 
+- Clear list functionality 
 
-## Current Features
-- User-configurable list - add, what items you need to pack
-- Delete items from the list one by one, or all at once
-- You can sort items by description name, packed status, or the order they were inputted
+## What This Project Demonstrates 
+- Functional React components 
+- State management with `useState` 
+- Derived state and conditional rendering 
+- Event handling and controlled inputs 
+- Clean component separation 
 
 ## Live Demo
 Current version available at:  🔗 https://faraway-foxnineone.netlify.app/
 
-## What I Learned
-- Using State and Props to pass data to child elements from Parents
-- Sorting input arrays created from the front-end 
-- Using derived state to create dynamic variables over multiple variables that require their own functions to recalculate, this reducing code and re-rendering.
+## Notes This project was completed as part of *The Ultimate React Course* by Jonas Schmedtmann and represents my first complete React application.
 
 ## How to Run Locally
 1. Clone the repository
 2. Open `index.html` in a browser
+
