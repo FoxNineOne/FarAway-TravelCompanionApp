@@ -1,6 +1,7 @@
 # FarAway – Travel Companion App 
 
-## Overview FarAway is a React-based travel companion application built as part of a structured React learning project. 
+## Overview 
+FarAway is a React-based travel companion application built as part of a structured React learning project. 
 The app allows users to create, sort, and manage a packing list for trips, demonstrating core React concepts and component-driven UI design. 
 
 ## Tech Stack 
@@ -25,7 +26,8 @@ The app allows users to create, sort, and manage a packing list for trips, demon
 ## Live Demo
 Current version available at:  🔗 https://faraway-foxnineone.netlify.app/
 
-## Notes This project was completed as part of *The Ultimate React Course* by Jonas Schmedtmann and represents my first complete React application.
+## Notes 
+This project was completed as part of *The Ultimate React Course* by Jonas Schmedtmann and represents my first complete React application.
 
 ## How to Run Locally
 1. Clone the repository
